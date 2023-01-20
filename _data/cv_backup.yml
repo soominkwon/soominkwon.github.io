@@ -1,0 +1,41 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Changwoo Lee 
+    #- name: Date of Birth
+    #  value: 30th June 1993
+    - name: Languages
+      value: English, Korean
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD Candidate
+      institution: University of Michigan, USA 
+      year: 2020 - Present
+
+    - title: M.S. in Electronics and Computer Engineering 
+      institution: Hanyang University, Republic of Korea
+      year: 2020
+
+    - title: B.S. in Electronic Engineering 
+      institution: Hanyang University, Republic of Korea
+      year: 2018
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Topic 1.
+      items: 
+        - Description 1.
+        - Description 2.
+    - title: Topic 2.
+      items:
+        - Description 1.
+        - Description 2.
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Running, Listening to Jazz.
