@@ -20,7 +20,6 @@ social: true  # includes social icons at the bottom of the page
 
 I am a third year Ph. D. student in the [department of Electrical and Computer Engineering](http://ece.engin.umich.edu) at the [University of Michigan](https://umich.edu) (U of M), advised by Prof. [Hun-Seok Kim](https://kim.engin.umich.edu).
 
-My research interest lies in machine learning, particularly in fast and reliable deep-learning-based inference, as well as their applications in solving inverse problems, wireless communications, computer vision, and signal processing.
-
+My research is centered around Deep Learning using limited resources for sustainable and green AI, and is currently focused on developing techniques for compact yet expressive Deep Learning models. 
 
 I received my M.S. and B.S. at [Hanyang University](https://www.hanyang.ac.kr/web/eng), Seoul, Republic of Korea.
