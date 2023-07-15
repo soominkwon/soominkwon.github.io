@@ -6,7 +6,7 @@ subtitle: #University of Michigan. 1301 Beal Avenue, Ann Arbor, MI, USA.
 
 profile:
   align: right
-  image: profile-sq.jpg
+  image: profile-sq.png
   image_circular: false # crops the image to make it circular
   address: >
     <p>EECS 2431</p>
