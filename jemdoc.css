@@ -61,12 +61,12 @@ a, a > tt {
 }
 
 a:hover {
-	border-bottom: 1px gray dotted;
+	border-bottom: 1px black dotted;
 }
 
 #layout-menu a.current:link, #layout-menu a.current:visited {
 	color: #022b6d;
-	border-bottom: 1px gray solid;
+	border-bottom: 1px black solid;
 }
 #layout-menu a:link, #layout-menu a:visited, #layout-menu a:hover {
 	color: #527bbd;
@@ -77,7 +77,7 @@ a:hover {
 }
 
 div.menu-category {
-	border-bottom: 1px solid gray;
+	border-bottom: 1px solid black;
 	margin-top: 0.8em;
 	padding-top: 0.2em;
 	padding-bottom: 0.1em;
@@ -92,7 +92,7 @@ div.menu-item {
 div#toptitle {
 	padding-bottom: 0.2em;
 	margin-bottom: 1.5em;
-	border-bottom: 3px double gray;
+	border-bottom: 3px double black;
 }
 
 /* Reduce space if we begin the page with a title. */
@@ -345,7 +345,7 @@ td {
     padding-left: 0.5em;
     padding-right: 0.5em;
     text-align: center;
-    border: 1px solid gray;
+    border: 1px solid black;
 }
 
 table + table {
