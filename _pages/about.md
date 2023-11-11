@@ -20,6 +20,6 @@ social: true  # includes social icons at the bottom of the page
 
 I am a third year Ph. D. student in the [department of Electrical and Computer Engineering](http://ece.engin.umich.edu) at the [University of Michigan](https://umich.edu) (U of M), advised by Prof. [Hun-Seok Kim](https://kim.engin.umich.edu).
 
-My research is centered around Deep Learning using limited resources for sustainable and green AI, and is currently focused on developing techniques for compact yet expressive Deep Learning models. 
+My research is centered around improving the efficiency of deep neural networks (DNNs) and DNN-based methods including Transformers and Diffusion models. To do so, I am interested in using theoretical tools such as sparse and low-rank matrix approximation, randomized linear algebra, and nonparametric regression and density estimation.   
 
-I received my M.S. and B.S. at [Hanyang University](https://www.hanyang.ac.kr/web/eng), Seoul, Republic of Korea.
+Before I join U of M, I received my M.S. and B.S. at [Hanyang University](https://www.hanyang.ac.kr/web/eng), Seoul, Republic of Korea.
