@@ -24,6 +24,4 @@ My research is centered around the *energy efficiency* and *robustness* of machi
 
 Before I join U of M, I received my M.S. and B.S. at [Hanyang University](https://www.hanyang.ac.kr/web/eng), Seoul, Republic of Korea.
 
-<center>
 [CV](https://changwoolee.github.io/assets/pdf/CV_CL.pdf) | [Google Scholar](https://scholar.google.com/citations?user=Do2NTNsAAAAJ&hl=en) 
-</center>
