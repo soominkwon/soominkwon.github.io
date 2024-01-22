@@ -59,31 +59,6 @@ Citations, footnotes, and code blocks do not display correctly in the dark mode 
 If you are interested in correctly adding dark mode support for distill, please open [a discussion](https://github.com/alshedivat/al-folio/discussions) and let us know.
 
 
-  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
-  rel="stylesheet">
-
-  <link rel="stylesheet" href="assets/css/academic-proj/bulma.min.css">
-  <link rel="stylesheet" href="assets/css/academic-proj/bulma-carousel.min.css">
-  <link rel="stylesheet" href="assets/css/academic-proj/bulma-slider.min.css">
-  <link rel="stylesheet" href="assets/css/academic-proj/fontawesome.all.min.css">
-  <link rel="stylesheet"
-  href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
-  <link rel="stylesheet" href="assets/css/academic-proj/index.css">
-
-
-
-<div class="column has-text-centered">
-<span class="link-block">
-                    <a href="https://github.com/YOUR REPO HERE" target="_blank"
-                    class="external-link button is-normal is-rounded is-dark">
-                    <span class="icon">
-                      <i class="fab fa-github"></i>
-                    </span>
-                    <span>Code</span>
-                  </a>
-                </span>
-</div>
-
 
 ## Equations
 
