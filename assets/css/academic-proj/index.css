@@ -2,15 +2,21 @@ body {
   font-family: 'Noto Sans', sans-serif;
 }
 
-
 .footer .icon-link {
     font-size: 25px;
     color: #000;
 }
 
+.content-post {
+  max-width: 50%;
+  margin: auto;
+  font-size: 16px;
+}
+
 .link-block a {
     margin-top: 5px;
     margin-bottom: 5px;
+    color: white !important;
 }
 
 .dnerf {
