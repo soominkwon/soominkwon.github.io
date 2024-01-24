@@ -147,3 +147,15 @@ Each weight has different rank and structure, which are found during the trainin
 <img src="https://changwoolee.github.io/assets/img/projects/gaudi-gblr/mask_patterns.webp" alt="gaudi" width="400"/>
 
 </div>
+
+
+### BibTeX 
+
+```
+@article{lee2023differentiable,
+  title={Differentiable Learning of Generalized Structured Matrices for Efficient Deep Neural Networks},
+  author={Lee, Changwoo and Kim, Hun-Seok},
+  journal={arXiv preprint arXiv:2310.18882},
+  year={2023}
+}
+```
