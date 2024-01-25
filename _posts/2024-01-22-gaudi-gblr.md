@@ -155,10 +155,11 @@ Each weight has different rank and structure, which are found during the trainin
 ### BibTeX 
 
 ```
-@article{lee2023differentiable,
+@inproceedings{lee2023differentiable,
   title={Differentiable Learning of Generalized Structured Matrices for Efficient Deep Neural Networks},
   author={Lee, Changwoo and Kim, Hun-Seok},
-  journal={arXiv preprint arXiv:2310.18882},
-  year={2023}
+  booktitle={The Twelfth International Conference on Learning Representations},
+  year={2024},
+  url={https://openreview.net/forum?id=pAVJKp3Dvn}
 }
 ```
