@@ -4,6 +4,9 @@ title: "Gaudi-GBLR: Differentiable, and Generalized Block Low-Rank Matrix Format
 description: A project page for the Gaudi-GBLR paper.
 date: 2024-01-22
 
+tags: LinearAlgebra MachineLearning ICLR2024
+category: Research
+
 authors:
   - name: Changwoo Lee
     url: "https://changwoolee.github.io/"
