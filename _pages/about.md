@@ -24,8 +24,11 @@ My research is centered around the *energy efficienct* machine learning and deep
 
 Before I join U of M, I received my M.S. and B.S. at [Hanyang University](https://www.hanyang.ac.kr/web/eng), Seoul, Republic of Korea.
 
+
 <div align="center">
 
+
 [[CV]](https://changwoolee.github.io/assets/pdf/CV_CL.pdf)  [[Google Scholar]](https://scholar.google.com/citations?user=Do2NTNsAAAAJ&hl=en) 
+
 
 </div>
