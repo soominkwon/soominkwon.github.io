@@ -28,4 +28,6 @@ Before I join U of M, I received my M.S. and B.S. at [Hanyang University](https:
 
 
 
-[[CV]](https://changwoolee.github.io/assets/pdf/CV_CL.pdf)  [[Google Scholar]](https://scholar.google.com/citations?user=Do2NTNsAAAAJ&hl=en) 
+<p style="text-align:center;"> 
+    <a href="https://changwoolee.github.io/assets/pdf/CV_CL.pdf">[CV]</a>  <a href="https://scholar.google.com/citations?hl=en&user=Do2NTNsAAAAJ&view_op=list_works&sortby=pubdate">[Google Scholar]</a>
+</p>
