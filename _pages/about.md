@@ -12,7 +12,7 @@ profile:
     <p>EECS 2431</p>
     <p>1301 Beal Avenue</p>
     <p>Ann Arbor, MI 40109</p>
-    <p>mailto:cwoolee@umich.edu</p>
+    <p><a href="mailto:cwoolee@umich.edu">cwoolee@umich.edu</a></p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
