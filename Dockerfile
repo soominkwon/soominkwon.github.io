@@ -9,5 +9,6 @@ RUN apk add --no-cache --virtual .build-deps \
         make \
     && apk add --no-cache imagemagick-dev imagemagick
 WORKDIR /srv/jekyll
+RUN gem update --system
 ADD Gemfile /srv/jekyll/
 RUN bundle install
