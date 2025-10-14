@@ -1,8 +1,8 @@
 ---
 layout: cv
-permalink: /assets/pdf/CV_CL.pdf
+permalink: /assets/pdf/CV_Changwoo_Lee.pdf
 title: cv
 nav: true
 nav_order: 4
-cv_pdf: CV_CL.pdf
+cv_pdf: CV_Changwoo_Lee.pdf
 ---
