@@ -39,6 +39,6 @@ Some fun facts about myself: I love running and brewing coffee. I also enjoy lis
 
 
 <p style="text-align:center;"> 
-    <a href="https://changwoolee.github.io/assets/pdf/CV_CL.pdf">[CV]</a>  <a href="https://scholar.google.com/citations?hl=en&user=Do2NTNsAAAAJ&view_op=list_works&sortby=pubdate">[Google Scholar]</a>
+    <a href="https://changwoolee.github.io/assets/pdf/CV_Changwoo_Lee.pdf">[CV]</a>  <a href="https://scholar.google.com/citations?hl=en&user=Do2NTNsAAAAJ&view_op=list_works&sortby=pubdate">[Google Scholar]</a>
 </p>
 
