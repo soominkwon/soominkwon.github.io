@@ -41,10 +41,7 @@ ninja.data = [{
           window.location.href = "/blog/2024/gaudi-gblr/";
         
       },
-    },{id: "news-paper-on-deep-joint-source-channel-coding-with-iterative-source-error-correction-is-accepted-to-aistats23",
-          title: 'Paper on “Deep Joint Source-Channel Coding with Iterative Source Error Correction” is accepted...',
-          description: "",
-          section: "News",},{id: "news-paper-on-differentiable-learning-of-generalized-structured-matrices-for-efficient-deep-neural-networks-is-accepted-to-iclr24",
+    },{id: "news-paper-on-differentiable-learning-of-generalized-structured-matrices-for-efficient-deep-neural-networks-is-accepted-to-iclr24",
           title: 'Paper on “Differentiable Learning of Generalized Structured Matrices for Efficient Deep Neural Networks”...',
           description: "",
           section: "News",},{id: "news-i-joined-samsung-research-america-at-mountain-view-as-nlp-ml-research-intern-during-summer-2024",
