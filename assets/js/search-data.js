@@ -41,7 +41,10 @@ ninja.data = [{
           window.location.href = "/blog/2024/gaudi-gblr/";
         
       },
-    },{id: "news-i-joined-google-deepmind-as-a-research-intern-during-summer-2025-in-mountain-view-excited-to-do-research-with-amazing-people",
+    },{id: "news-a-paper-blast-block-level-adaptive-structured-matrices-for-efficient-deep-neural-network-inference-is-accepted-to-neurips24",
+          title: 'A paper “BLAST: Block-Level Adaptive Structured Matrices for Efficient Deep Neural Network Inference”...',
+          description: "",
+          section: "News",},{id: "news-i-joined-google-deepmind-as-a-research-intern-during-summer-2025-in-mountain-view-excited-to-do-research-with-amazing-people",
           title: 'I joined Google DeepMind as a Research Intern during Summer 2025 in Mountain...',
           description: "",
           section: "News",},{id: "news-our-monarchattention-paper-is-accepted-to-neurips-2025-as-spotlight",
