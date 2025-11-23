@@ -41,8 +41,8 @@ ninja.data = [{
           window.location.href = "/blog/2024/gaudi-gblr/";
         
       },
-    },{id: "news-our-monarchattention-paper-is-accepted-to-neurips-2025-as-spotlight",
-          title: 'Our MonarchAttention paper is accepted to NeurIPS 2025 as Spotlight!',
+    },{id: "news-bbop",
+          title: 'bbop!',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
