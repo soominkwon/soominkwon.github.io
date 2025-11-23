@@ -30,18 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/Soo_Min_Kwon_Graduate_CV.pdf";
           },
-        },{id: "post-gaudi-gblr-differentiable-and-generalized-block-low-rank-matrix-format-for-efficient-dnns",
-      
-        title: "Gaudi-GBLR: Differentiable, and Generalized Block Low-Rank Matrix Format for Efficient DNNs",
-      
-      description: "A project page for the Gaudi-GBLR paper.",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2024/gaudi-gblr/";
-        
-      },
-    },{id: "news-bbop",
+        },{id: "news-bbop",
           title: 'bbop!',
           description: "",
           section: "News",},{id: "projects-project-1",
