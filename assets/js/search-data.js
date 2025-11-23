@@ -83,21 +83,21 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%63%77%6F%6F%6C%65%65@%75%6D%69%63%68.%65%64%75", "_blank");
+          window.open("mailto:%6B%77%6F%6E%73%6D@%75%6D%69%63%68.%65%64%75", "_blank");
         },
       },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/changwoolee", "_blank");
+          window.open("https://github.com/soominkwon", "_blank");
         },
       },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/changwoo-lee", "_blank");
+          window.open("https://www.linkedin.com/in/soominkwon", "_blank");
         },
       },{
         id: 'social-rss',
