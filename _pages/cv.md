@@ -1,8 +1,8 @@
 ---
 layout: cv
-permalink: /assets/pdf/CV_Changwoo_Lee.pdf
+permalink: /Soo_Min_Kwon_Graduate_CV.pdf
 title: cv
 nav: true
 nav_order: 4
-cv_pdf: CV_Changwoo_Lee.pdf
+cv_pdf: Soo_Min_Kwon_Graduate_CV.pdf
 ---
