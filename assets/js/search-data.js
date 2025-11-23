@@ -30,8 +30,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/Soo_Min_Kwon_Graduate_CV.pdf";
           },
-        },{id: "news-bbop",
-          title: 'bbop!',
+        },{id: "news-just-wrapped-up-my-internship-at-google-research-nyc-expect-some-great-work-on-post-training-llms-for-reasoning-tasks-very-soon",
+          title: 'Just wrapped up my internship at Google Research NYC. Expect some great work...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
