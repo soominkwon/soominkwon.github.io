@@ -72,10 +72,10 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: changwoolee # your GitHub user name
+github_username: soominkwon # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: ChangwooLee9 # your Twitter handle
-linkedin_username: changwoo-lee # your LinkedIn user name
+twitter_username: # your Twitter handle
+linkedin_username: soominkwon # your LinkedIn user name
 scholar_userid: Do2NTNsAAAAJ # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
@@ -107,8 +107,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Changwoo's Notes # blog_name will be displayed in your blog page
-blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
+blog_name:  # blog_name will be displayed in your blog page
+blog_nav_title: # your blog must have a title for it to be displayed in the nav bar
 blog_description: 
 
 permalink: /blog/:year/:title/
@@ -292,8 +292,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
 
-  last_name: Lee
-  first_name: [Changwoo]
+  last_name: Kwon
+  first_name: Soo Min
 
   style: apa
   locale: en
