@@ -76,7 +76,7 @@ github_username: soominkwon # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 linkedin_username: soominkwon # your LinkedIn user name
-scholar_userid: Do2NTNsAAAAJ # your Google Scholar ID
+scholar_userid: sdoF5IAAAAJ # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
@@ -86,7 +86,7 @@ blogger_url: # your blogger URL
 work_url: # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
-dblp_url: https://dblp.org/pid/52/6193-1.html # your DBLP profile url
+dblp_url: # https://dblp.org/pid/52/6193-1.html # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
 contact_note: >
@@ -96,7 +96,7 @@ contact_note: >
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
 
-google_analytics: G-0KPJKMT5K3  # your Goole Analytics measurement ID (format: G-XXXXXXXXXX)
+google_analytics: # G-0KPJKMT5K3  # your Goole Analytics measurement ID (format: G-XXXXXXXXXX)
 panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 
 # For Google Search Console, see https://support.google.com/webmasters/answer/9008080?hl=en#meta_tag_verification&zippy=%2Chtml-tag
