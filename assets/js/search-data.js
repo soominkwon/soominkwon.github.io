@@ -41,10 +41,7 @@ ninja.data = [{
           window.location.href = "/blog/2024/gaudi-gblr/";
         
       },
-    },{id: "news-paper-on-differentiable-learning-of-generalized-structured-matrices-for-efficient-deep-neural-networks-is-accepted-to-iclr24",
-          title: 'Paper on “Differentiable Learning of Generalized Structured Matrices for Efficient Deep Neural Networks”...',
-          description: "",
-          section: "News",},{id: "news-i-joined-samsung-research-america-at-mountain-view-as-nlp-ml-research-intern-during-summer-2024",
+    },{id: "news-i-joined-samsung-research-america-at-mountain-view-as-nlp-ml-research-intern-during-summer-2024",
           title: 'I joined Samsung Research America at Mountain View as NLP/ML Research Intern during...',
           description: "",
           section: "News",},{id: "news-a-paper-blast-block-level-adaptive-structured-matrices-for-efficient-deep-neural-network-inference-is-accepted-to-neurips24",
