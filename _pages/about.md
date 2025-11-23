@@ -28,7 +28,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a final year Ph. D. student in the Department of Electrical and Computer Engineering at the University of Michigan, Ann Arbor, advised by Prof. Laura Balzano and Prof. Qing Qu. Previously, I received my M.S. and B.S. degrees from Rutgers University, where I worked with Prof. Anand D. Sarwate.
+I am a final year Ph.D. student in the Department of Electrical and Computer Engineering at the University of Michigan, Ann Arbor, advised by Prof. Laura Balzano and Prof. Qing Qu. Previously, I received my M.S. and B.S. degrees from Rutgers University, where I worked with Prof. Anand D. Sarwate.
 
 I am interested in a wide range of problems, from theoretical deep learning to practical and efficient algorithms for generative models.
 
