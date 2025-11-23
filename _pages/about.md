@@ -6,13 +6,13 @@ subtitle: #University of Michigan. 1301 Beal Avenue, Ann Arbor, MI, USA.
 
 profile:
   align: right
-  image: headshot2.jpg
+  image: SooMin.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>EECS 2431</p>
     <p>1301 Beal Avenue</p>
     <p>Ann Arbor, MI 40109</p>
-    <p><a href="mailto:cwoolee@umich.edu">cwoolee@umich.edu</a></p>
+    <p><a href="mailto:kwonsm@umich.edu">kwonsm@umich.edu</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -28,17 +28,14 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a fifth year Ph. D. student in the [department of Electrical and Computer Engineering](http://ece.engin.umich.edu) at the [University of Michigan](https://umich.edu) (U of M), advised by Prof. [Hun-Seok Kim](https://kim.engin.umich.edu). Before I join U of M, I received my M.S. and B.S. at [Hanyang University](https://www.hanyang.ac.kr/web/eng), Seoul, Republic of Korea.
+I am a final year Ph. D. student in the Department of Electrical and Computer Engineering at the University of Michigan, Ann Arbor, advised by Prof. Laura Balzano and Prof. Qing Qu. Previously, I received my M.S. and B.S. degrees from Rutgers University, where I worked with Prof. Anand D. Sarwate.
 
-My research is centered around efficient Deep Learning and Machine Learning algorithms, including model compression, structured matrices, and efficient multi-modal temporal and sensor fusion models. 
-
-
-Some fun facts about myself: I love running and brewing coffee. I also enjoy listening to Jazz music. 
+I am interested in a wide range of problems, from theoretical deep learning to practical and efficient algorithms for generative models.
 
 
 
 
 <p style="text-align:center;"> 
-    <a href="https://changwoolee.github.io/assets/pdf/CV_Changwoo_Lee.pdf">[CV]</a>  <a href="https://scholar.google.com/citations?hl=en&user=Do2NTNsAAAAJ&view_op=list_works&sortby=pubdate">[Google Scholar]</a>
+    <a href="https://soominkwon.github.io/Soo_Min_Kwon_Graduate_CV.pdf">[CV]</a>  <a href="https://scholar.google.com/citations?user=_sdoF5IAAAAJ&hl=en">[Google Scholar]</a>
 </p>
 
