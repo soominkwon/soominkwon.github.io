@@ -10,15 +10,7 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
-Please refer to [Google Scholar](https://scholar.google.com/citations?user=Do2NTNsAAAAJ&hl=en) for the most up-to-date publications list. 
+Please refer to [Google Scholar](https://scholar.google.com/citations?user=_sdoF5IAAAAJ&hl=en) for the most up-to-date publications list. 
 <div class="publications">
-
-<!-- Bibsearch Feature -->
-
-{% include bib_search.liquid %}
-
-<div class="publications">
-
-{% bibliography %}
 
 </div>
