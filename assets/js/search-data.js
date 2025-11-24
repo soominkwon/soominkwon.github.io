@@ -16,7 +16,10 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/Soo_Min_Kwon_Graduate_CV.pdf";
           },
-        },{id: "news-just-wrapped-up-my-internship-at-google-research-nyc-expect-some-great-work-on-post-training-llms-for-reasoning-tasks-very-soon",
+        },{id: "news-a-paper-out-of-distribution-generalization-of-in-context-learning-a-low-dimensional-subspace-perspective-is-accepted-to-the-wctd-workshop-at-neurips-2025",
+          title: 'A paper, Out-of-Distribution Generalization of In-Context Learning: A Low-Dimensional Subspace Perspective, is accepted...',
+          description: "",
+          section: "News",},{id: "news-just-wrapped-up-my-internship-at-google-research-nyc-expect-some-great-work-on-post-training-llms-for-reasoning-tasks-very-soon",
           title: 'Just wrapped up my internship at Google Research NYC. Expect some great work...',
           description: "",
           section: "News",},{id: "projects-project-1",
