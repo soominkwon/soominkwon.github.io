@@ -16,14 +16,14 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/Soo_Min_Kwon_Graduate_CV.pdf";
           },
-        },{id: "news-a-paper-out-of-distribution-generalization-of-in-context-learning-a-low-dimensional-subspace-perspective-is-accepted-to-aistats-2026",
-          title: 'A paper, Out-of-Distribution Generalization of In-Context Learning: A Low-Dimensional Subspace Perspective, is accepted...',
-          description: "",
-          section: "News",},{id: "news-gave-a-talk-on-learning-dynamics-of-deep-matrix-factorization-at-the-edge-of-stability-at-informs-2025-in-atlanta-georgia",
+        },{id: "news-gave-a-talk-on-learning-dynamics-of-deep-matrix-factorization-at-the-edge-of-stability-at-informs-2025-in-atlanta-georgia",
           title: 'Gave a talk on “Learning Dynamics of Deep Matrix Factorization at the Edge...',
           description: "",
           section: "News",},{id: "news-just-wrapped-up-my-internship-at-google-research-nyc-where-i-worked-closely-with-himanshu-jain-ziteng-sun-and-ananda-theertha-suresh-expect-some-great-work-on-post-training-llms-for-reasoning-tasks-very-soon",
           title: 'Just wrapped up my internship at Google Research NYC, where I worked closely...',
+          description: "",
+          section: "News",},{id: "news-a-paper-out-of-distribution-generalization-of-in-context-learning-a-low-dimensional-subspace-perspective-is-accepted-to-aistats-2026",
+          title: 'A paper, Out-of-Distribution Generalization of In-Context Learning: A Low-Dimensional Subspace Perspective, is accepted...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
