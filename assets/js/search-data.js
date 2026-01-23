@@ -16,7 +16,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/Soo_Min_Kwon_Graduate_CV.pdf";
           },
-        },{id: "news-a-paper-out-of-distribution-generalization-of-in-context-learning-a-low-dimensional-subspace-perspective-is-accepted-to-the-wctd-workshop-at-neurips-2025",
+        },{id: "news-a-paper-out-of-distribution-generalization-of-in-context-learning-a-low-dimensional-subspace-perspective-is-accepted-to-aistats-2026",
           title: 'A paper, Out-of-Distribution Generalization of In-Context Learning: A Low-Dimensional Subspace Perspective, is accepted...',
           description: "",
           section: "News",},{id: "news-gave-a-talk-on-learning-dynamics-of-deep-matrix-factorization-at-the-edge-of-stability-at-informs-2025-in-atlanta-georgia",
