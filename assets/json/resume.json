@@ -1,10 +1,10 @@
 {
   "basics": {
-    "name": "Changwoo Lee",
+    "name": "Soo Min Kwon",
     "label": "PhD Candidate",
     "image": "",
-    "email": "cwoolee@umich.edu",
-    "summary": "Studying Efficient Deep Learning",
+    "email": "kwonsm@umich.edu",
+    "summary": "Theoretical Deep Learning",
     "location": {
       "address": "1301 Beal Avenue",
       "postalCode": "MI 48109",
@@ -14,19 +14,14 @@
     },
   "languages": [
     {
-      "language": "Korean",
+      "language": "English",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
-      "language": "English",
+      "language": "Korean",
       "fluency": "Fluent",
       "icon": ""
-    },
-    {
-      "language": "Spanish",
-      "fluency": "Beginner",
-      "icon": ""
     }
-  ],
+  ]
 }
