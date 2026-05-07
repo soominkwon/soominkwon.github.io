@@ -16,14 +16,14 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/Soo_Min_Kwon_Graduate_CV.pdf";
           },
-        },{id: "news-just-wrapped-up-my-internship-at-google-research-nyc-where-i-worked-closely-with-himanshu-jain-ziteng-sun-and-ananda-theertha-suresh-expect-some-great-work-on-post-training-llms-for-reasoning-tasks-very-soon",
-          title: 'Just wrapped up my internship at Google Research NYC, where I worked closely...',
-          description: "",
-          section: "News",},{id: "news-a-paper-out-of-distribution-generalization-of-in-context-learning-a-low-dimensional-subspace-perspective-is-accepted-to-aistats-2026",
+        },{id: "news-a-paper-out-of-distribution-generalization-of-in-context-learning-a-low-dimensional-subspace-perspective-is-accepted-to-aistats-2026",
           title: 'A paper, Out-of-Distribution Generalization of In-Context Learning: A Low-Dimensional Subspace Perspective, is accepted...',
           description: "",
           section: "News",},{id: "news-a-paper-codistill-grpo-a-co-distillation-recipe-for-efficient-group-relative-policy-optimization-is-released",
           title: 'A paper, CoDistill-GRPO: A Co-Distillation Recipe for Efficient Group Relative Policy Optimization, is...',
+          description: "",
+          section: "News",},{id: "news-our-paper-out-of-distribution-generalization-of-in-context-learning-a-low-dimensional-subspace-perspective-won-the-best-paper-award-at-the-aistats-2026-workshop-for-causality-in-the-age-of-ai-scaling",
+          title: 'Our paper, Out-of-Distribution Generalization of In-Context Learning: A Low-Dimensional Subspace Perspective, won the...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
