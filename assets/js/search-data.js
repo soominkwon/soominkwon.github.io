@@ -22,7 +22,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-out-of-distribution-generalization-of-in-context-learning-a-low-dimensional-subspace-perspective-won-the-best-paper-award-at-the-aistats-2026-workshop-for-causality-in-the-age-of-ai-scaling",
           title: 'Our paper, Out-of-Distribution Generalization of In-Context Learning: A Low-Dimensional Subspace Perspective, won the...',
           description: "",
-          section: "News",},{id: "news-two-accepted-papers-the-paper-codistill-grpo-a-co-distillation-recipe-for-efficient-group-relative-policy-optimization-has-been-accepted-to-icml-2026-adaptfm-workshop-and-the-paper-dcdp-decoupled-data-consistency-via-diffusion-purification-for-solving-general-inverse-problems-has-been-accepted-to-iccp-2026",
+          section: "News",},{id: "news-two-accepted-papers-the-paper-codistill-grpo-a-co-distillation-recipe-for-efficient-group-relative-policy-optimization-has-been-accepted-to-icml-2026-adaptfm-workshop-and-the-paper-dcdp-decoupled-data-consistency-via-diffusion-purification-for-solving-general-inverse-problems-has-been-accepted-to-iccl-2026",
           title: 'Two accepted papers: the paper CoDistill-GRPO: A Co-Distillation Recipe for Efficient Group Relative...',
           description: "",
           section: "News",},{id: "projects-project-1",
