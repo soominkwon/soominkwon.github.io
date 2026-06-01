@@ -23,7 +23,7 @@ ninja.data = [{
           title: 'I successfully defended my PhD thesis! Special thanks to my advisors Qing Qu...',
           description: "",
           section: "News",},{id: "news-two-accepted-papers-the-paper-codistill-grpo-a-co-distillation-recipe-for-efficient-group-relative-policy-optimization-has-been-accepted-to-icml-2026-adaptfm-workshop-and-the-paper-dcdp-decoupled-data-consistency-via-diffusion-purification-for-solving-general-inverse-problems-has-been-accepted-to-iccp-2026",
-          title: 'Two accepted papers: the paper CoDistill-GRPO: A Co-Distillation Recipe for Efficient Group Relative...',
+          title: 'Two accepted papers: the paper, CoDistill-GRPO: A Co-Distillation Recipe for Efficient Group Relative...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
